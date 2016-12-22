@@ -18,7 +18,8 @@
 #ifndef _MLPACK_CORE_DISTRIBUTIONS_GAMMA_DISTRIBUTION_HPP
 #define _MLPACK_CORE_DISTRIBUTIONS_GAMMA_DISTRIBUTION_HPP
 
-#include <mlpack/core.hpp>
+#include <mlpack/prereqs.hpp>
+#include <mlpack/core/math/random.hpp>
 
 namespace mlpack {
 namespace distribution {
